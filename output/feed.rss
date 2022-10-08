@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+	<channel>
+		<title />
+		<link>/</link>
+		<description>A blog website built with Statiq and CleanBlog</description>
+		<copyright>2022</copyright>
+		<pubDate>Sat, 08 Oct 2022 18:20:57 GMT</pubDate>
+		<lastBuildDate>Sat, 08 Oct 2022 18:20:57 GMT</lastBuildDate>
+		<item>
+			<title>Statiq is Cool</title>
+			<link>/posts/statiq</link>
+			<description>A blog website built with Statiq and CleanBlog</description>
+			<guid isPermaLink="false">/posts/statiq</guid>
+			<pubDate>Thu, 06 Oct 2022 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;How to Start the Preview
+&lt;code&gt;dotnet run -- serve&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;References&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.statiq.dev/"&gt;Statiq Website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.statiq.dev/guide/configuration/bootstrapper/"&gt;Statiq Bootstrapper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.statiq.dev/guide/documents-and-metadata/"&gt;Statiq Docs and Metadata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.statiq.dev/guide/configuration/settings#configuration-files"&gt;Statiq Config Files&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.statiq.dev/guide/configuration/web-settings"&gt;Statiq Web Settings&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/statiqdev"&gt;Statiq Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/statiqdev/CleanBlog"&gt;Statiq CleanBlog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content:encoded>
+			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
+		</item>
+		<item>
+			<title>Markdown Cookbook</title>
+			<link>/posts/markdown</link>
+			<description>A blog website built with Statiq and CleanBlog</description>
+			<guid isPermaLink="false">/posts/markdown</guid>
+			<pubDate>Thu, 06 Oct 2022 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;Markdown Examples&lt;/p&gt;
+&lt;h1 id="h1-heading-8"&gt;h1 Heading 8-)&lt;/h1&gt;
+&lt;h2 id="h2-heading"&gt;h2 Heading&lt;/h2&gt;
+&lt;h3 id="h3-heading"&gt;h3 Heading&lt;/h3&gt;
+&lt;h4 id="h4-heading"&gt;h4 Heading&lt;/h4&gt;
+&lt;h5 id="h5-heading"&gt;h5 Heading&lt;/h5&gt;
+&lt;h6 id="h6-heading"&gt;h6 Heading&lt;/h6&gt;
+&lt;h2 id="horizontal-rules"&gt;Horizontal Rules&lt;/h2&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;h2 id="typographic-replacements"&gt;Typographic replacements&lt;/h2&gt;
+&lt;p&gt;Enable typographer option to see result.&lt;/p&gt;
+&lt;p&gt;(c) (C) (r) (R) (tm) (TM) (p) (P) +-&lt;/p&gt;
+&lt;p&gt;test.. test... test..... test?..... test!....&lt;/p&gt;
+&lt;p&gt;!!!!!! ???? ,,  -- ---&lt;/p&gt;
+&lt;p&gt;"Smartypants, double quotes" and 'single quotes'&lt;/p&gt;
+&lt;h2 id="emphasis"&gt;Emphasis&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;This is bold text&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This is bold text&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This is italic text&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This is italic text&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;Strikethrough&lt;/del&gt;&lt;/p&gt;
+&lt;h2 id="blockquotes"&gt;Blockquotes&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Blockquotes can also be nested...&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;...by using additional greater-than signs right next to each other...&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;...or with spaces between arrows.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="lists"&gt;Lists&lt;/h2&gt;
+&lt;p&gt;Unordered&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Create a list by starting a line with &lt;code&gt;+&lt;/code&gt;, &lt;code&gt;-&lt;/code&gt;, or &lt;code&gt;*&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Sub-lists are made by indenting 2 spaces:
+&lt;ul&gt;
+&lt;li&gt;Marker character change forces new list start:
+&lt;ul&gt;
+&lt;li&gt;Ac tristique libero volutpat at&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Facilisis in pretium nisl aliquet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Nulla volutpat aliquam velit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Very easy!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ordered&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Lorem ipsum dolor sit amet&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Consectetur adipiscing elit&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Integer molestie lorem at massa&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;You can use sequential numbers...&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;...or keep all the numbers as &lt;code&gt;1.&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Start numbering with offset:&lt;/p&gt;
+&lt;ol start="57"&gt;
+&lt;li&gt;foo&lt;/li&gt;
+&lt;li&gt;bar&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="code"&gt;Code&lt;/h2&gt;
+&lt;p&gt;Inline &lt;code&gt;code&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Indented code&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;// Some comments
+line 1 of code
+line 2 of code
+line 3 of code
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Block code "fences"&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Sample text here...
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Syntax highlighting&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-js"&gt;var foo = function (bar) {
+  return bar++;
+};
+
+console.log(foo(5));
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id="tables"&gt;Tables&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Option&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;data&lt;/td&gt;
+&lt;td&gt;path to data files to supply the data that will be passed into templates.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;engine&lt;/td&gt;
+&lt;td&gt;engine to be used for processing templates. Handlebars is the default.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ext&lt;/td&gt;
+&lt;td&gt;extension to be used for dest files.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Right aligned columns&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: right;"&gt;Option&lt;/th&gt;
+&lt;th style="text-align: right;"&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: right;"&gt;data&lt;/td&gt;
+&lt;td style="text-align: right;"&gt;path to data files to supply the data that will be passed into templates.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: right;"&gt;engine&lt;/td&gt;
+&lt;td style="text-align: right;"&gt;engine to be used for processing templates. Handlebars is the default.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: right;"&gt;ext&lt;/td&gt;
+&lt;td style="text-align: right;"&gt;extension to be used for dest files.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="links"&gt;Links&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://dev.nodeca.com/"&gt;link text&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://nodeca.github.io/pica/demo/" title="title text!"&gt;link with title&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Autoconverted link &lt;a href="https://github.com/nodeca/pica"&gt;https://github.com/nodeca/pica&lt;/a&gt; (enable linkify to see)&lt;/p&gt;
+&lt;h2 id="images"&gt;Images&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://octodex.github.com/images/minion.png" alt="Minion"&gt;
+&lt;img src="https://octodex.github.com/images/stormtroopocat.jpg" alt="Stormtroopocat" title="The Stormtroopocat"&gt;&lt;/p&gt;
+&lt;p&gt;Like links, Images also have a footnote style syntax&lt;/p&gt;
+&lt;p&gt;![Alt text][id]&lt;/p&gt;
+&lt;p&gt;With a reference later in the document defining the URL location:&lt;/p&gt;
+&lt;p&gt;[id]: &lt;a href="https://octodex.github.com/images/dojocat.jpg"&gt;https://octodex.github.com/images/dojocat.jpg&lt;/a&gt;  "The Dojocat"&lt;/p&gt;
+&lt;h2 id="plugins"&gt;Plugins&lt;/h2&gt;
+&lt;p&gt;The killer feature of &lt;code&gt;markdown-it&lt;/code&gt; is very effective support of
+&lt;a href="https://www.npmjs.org/browse/keyword/markdown-it-plugin"&gt;syntax plugins&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id="emojies"&gt;&lt;a href="https://github.com/markdown-it/markdown-it-emoji"&gt;Emojies&lt;/a&gt;&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:&lt;/p&gt;
+&lt;p&gt;Shortcuts (emoticons): :-) :-( 8-) ;)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;see &lt;a href="https://github.com/markdown-it/markdown-it-emoji#change-output"&gt;how to change output&lt;/a&gt; with twemoji.&lt;/p&gt;
+&lt;h3 id="subscript-superscript"&gt;&lt;a href="https://github.com/markdown-it/markdown-it-sub"&gt;Subscript&lt;/a&gt; / &lt;a href="https://github.com/markdown-it/markdown-it-sup"&gt;Superscript&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;19&lt;sup&gt;th&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;H&lt;sub&gt;2&lt;/sub&gt;O&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="ins"&gt;&lt;a href="https://github.com/markdown-it/markdown-it-ins"&gt;&amp;lt;ins&amp;gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;ins&gt;Inserted text&lt;/ins&gt;&lt;/p&gt;
+&lt;h3 id="mark"&gt;&lt;a href="https://github.com/markdown-it/markdown-it-mark"&gt;&amp;lt;mark&amp;gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;mark&gt;Marked text&lt;/mark&gt;&lt;/p&gt;
+&lt;h3 id="footnotes"&gt;&lt;a href="https://github.com/markdown-it/markdown-it-footnote"&gt;Footnotes&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Footnote 1 link&lt;a id="fnref:1" href="/#fn:1" class="footnote-ref"&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Footnote 2 link&lt;a id="fnref:2" href="/#fn:2" class="footnote-ref"&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Inline footnote^[Text of inline footnote] definition.&lt;/p&gt;
+&lt;p&gt;Duplicated footnote reference&lt;a id="fnref:3" href="/#fn:2" class="footnote-ref"&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id="definition-lists"&gt;&lt;a href="https://github.com/markdown-it/markdown-it-deflist"&gt;Definition lists&lt;/a&gt;&lt;/h3&gt;
+&lt;dl&gt;
+&lt;dt&gt;Term 1&lt;/dt&gt;
+&lt;dd&gt;Definition 1
+with lazy continuation.&lt;/dd&gt;
+&lt;dt&gt;Term 2 with &lt;em&gt;inline markup&lt;/em&gt;&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;Definition 2&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{ some code, part of Definition 2 }
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Third paragraph of definition 2.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;&lt;em&gt;Compact style:&lt;/em&gt;&lt;/p&gt;
+&lt;dl&gt;
+&lt;dt&gt;Term 1&lt;/dt&gt;
+&lt;dd&gt;Definition 1&lt;/dd&gt;
+&lt;dt&gt;Term 2&lt;/dt&gt;
+&lt;dd&gt;Definition 2a&lt;/dd&gt;
+&lt;dd&gt;Definition 2b&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h3 id="abbreviations"&gt;&lt;a href="https://github.com/markdown-it/markdown-it-abbr"&gt;Abbreviations&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This is &lt;abbr title="Hyper Text Markup Language"&gt;HTML&lt;/abbr&gt; abbreviation example.&lt;/p&gt;
+&lt;p&gt;It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.&lt;/p&gt;
+&lt;h3 id="custom-containers"&gt;&lt;a href="https://github.com/markdown-it/markdown-it-container"&gt;Custom containers&lt;/a&gt;&lt;/h3&gt;
+&lt;div class="warning"&gt;&lt;p&gt;&lt;em&gt;here be dragons&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="footnotes"&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id="fn:1"&gt;
+&lt;p&gt;Footnote &lt;strong&gt;can have markup&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;and multiple paragraphs.&lt;a href="/#fnref:1" class="footnote-back-ref"&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:2"&gt;
+&lt;p&gt;Footnote text.&lt;a href="/#fnref:2" class="footnote-back-ref"&gt;↩&lt;/a&gt;&lt;a href="/#fnref:3" class="footnote-back-ref"&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</content:encoded>
+			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
+		</item>
+	</channel>
+</rss>

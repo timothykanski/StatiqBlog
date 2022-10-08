@@ -1,0 +1,4 @@
+﻿SiteTitle: My Statiq Blog
+Description: A blog website built with Statiq and CleanBlog
+PostSources: posts/*
+GenerateSearchIndex: true
