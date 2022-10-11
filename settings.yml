@@ -2,3 +2,4 @@
 Description: A blog website built with Statiq and CleanBlog
 PostSources: posts/*
 GenerateSearchIndex: true
+LinkHideExtensions: false
