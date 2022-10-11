@@ -5,29 +5,8 @@
 		<link>/</link>
 		<description>A blog website built with Statiq and CleanBlog</description>
 		<copyright>2022</copyright>
-		<pubDate>Tue, 11 Oct 2022 23:15:14 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Oct 2022 23:15:14 GMT</lastBuildDate>
-		<item>
-			<title>Statiq is Cool</title>
-			<link>/posts/statiq.html</link>
-			<description>A blog website built with Statiq and CleanBlog</description>
-			<guid isPermaLink="false">/posts/statiq.html</guid>
-			<pubDate>Thu, 06 Oct 2022 00:00:00 GMT</pubDate>
-			<content:encoded>&lt;p&gt;How to Start the Preview
-&lt;code&gt;dotnet run -- serve&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;References&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.statiq.dev/"&gt;Statiq Website&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.statiq.dev/guide/configuration/bootstrapper/"&gt;Statiq Bootstrapper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.statiq.dev/guide/documents-and-metadata/"&gt;Statiq Docs and Metadata&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.statiq.dev/guide/configuration/settings#configuration-files"&gt;Statiq Config Files&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.statiq.dev/guide/configuration/web-settings"&gt;Statiq Web Settings&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/statiqdev"&gt;Statiq Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/statiqdev/CleanBlog"&gt;Statiq CleanBlog&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content:encoded>
-			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
-		</item>
+		<pubDate>Tue, 11 Oct 2022 23:36:36 GMT</pubDate>
+		<lastBuildDate>Tue, 11 Oct 2022 23:36:36 GMT</lastBuildDate>
 		<item>
 			<title>Markdown Cookbook</title>
 			<link>/posts/markdown.html</link>
@@ -243,6 +222,37 @@ with lazy continuation.&lt;/dd&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
+</content:encoded>
+			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
+		</item>
+		<item>
+			<title>Statiq is Cool</title>
+			<link>/posts/statiq.html</link>
+			<description>A blog website built with Statiq and CleanBlog</description>
+			<guid isPermaLink="false">/posts/statiq.html</guid>
+			<pubDate>Thu, 06 Oct 2022 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;How to Start the Preview
+&lt;code&gt;dotnet run -- serve&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;References&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.statiq.dev/"&gt;Statiq Website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.statiq.dev/guide/configuration/bootstrapper/"&gt;Statiq Bootstrapper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.statiq.dev/guide/documents-and-metadata/"&gt;Statiq Docs and Metadata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.statiq.dev/guide/configuration/settings#configuration-files"&gt;Statiq Config Files&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.statiq.dev/guide/configuration/web-settings"&gt;Statiq Web Settings&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/statiqdev"&gt;Statiq Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/statiqdev/CleanBlog"&gt;Statiq CleanBlog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content:encoded>
+			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
+		</item>
+		<item>
+			<title>Hello World</title>
+			<link>/posts/helloworld.html</link>
+			<description>A blog website built with Statiq and CleanBlog</description>
+			<guid isPermaLink="false">/posts/helloworld.html</guid>
+			<pubDate>Sat, 01 Oct 2022 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;Hello World!!!&lt;/p&gt;
 </content:encoded>
 			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
 		</item>
