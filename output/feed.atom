@@ -4,8 +4,28 @@
 	<title />
 	<link rel="self" href="/" />
 	<rights>2022</rights>
-	<updated>2022-10-11T23:36:36Z</updated>
+	<updated>2022-10-11T23:45:12Z</updated>
 	<subtitle>A blog website built with Statiq and CleanBlog</subtitle>
+	<entry>
+		<id>/posts/statiq.html</id>
+		<title>Statiq is Cool</title>
+		<link href="/posts/statiq.html" />
+		<updated>2022-10-06T00:00:00Z</updated>
+		<content>&lt;p&gt;How to Start the Preview
+&lt;code&gt;dotnet run -- serve&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;References&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.statiq.dev/"&gt;Statiq Website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.statiq.dev/guide/configuration/bootstrapper/"&gt;Statiq Bootstrapper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.statiq.dev/guide/documents-and-metadata/"&gt;Statiq Docs and Metadata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.statiq.dev/guide/configuration/settings#configuration-files"&gt;Statiq Config Files&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.statiq.dev/guide/configuration/web-settings"&gt;Statiq Web Settings&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/statiqdev"&gt;Statiq Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/statiqdev/CleanBlog"&gt;Statiq CleanBlog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+		<summary>A blog website built with Statiq and CleanBlog</summary>
+	</entry>
 	<entry>
 		<id>/posts/markdown.html</id>
 		<title>Markdown Cookbook</title>
@@ -224,22 +244,11 @@ with lazy continuation.&lt;/dd&gt;
 		<summary>A blog website built with Statiq and CleanBlog</summary>
 	</entry>
 	<entry>
-		<id>/posts/statiq.html</id>
-		<title>Statiq is Cool</title>
-		<link href="/posts/statiq.html" />
-		<updated>2022-10-06T00:00:00Z</updated>
-		<content>&lt;p&gt;How to Start the Preview
-&lt;code&gt;dotnet run -- serve&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;References&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.statiq.dev/"&gt;Statiq Website&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.statiq.dev/guide/configuration/bootstrapper/"&gt;Statiq Bootstrapper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.statiq.dev/guide/documents-and-metadata/"&gt;Statiq Docs and Metadata&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.statiq.dev/guide/configuration/settings#configuration-files"&gt;Statiq Config Files&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.statiq.dev/guide/configuration/web-settings"&gt;Statiq Web Settings&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/statiqdev"&gt;Statiq Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/statiqdev/CleanBlog"&gt;Statiq CleanBlog&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+		<id>/posts/newpost.html</id>
+		<title>My New Post</title>
+		<link href="/posts/newpost.html" />
+		<updated>2022-10-01T00:00:00Z</updated>
+		<content>&lt;p&gt;What a great new post!  It's great!&lt;/p&gt;
 </content>
 		<summary>A blog website built with Statiq and CleanBlog</summary>
 	</entry>
