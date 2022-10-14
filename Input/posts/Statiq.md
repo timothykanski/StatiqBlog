@@ -1,4 +1,4 @@
-﻿Title: Statiq is Cool
+﻿Title: Statiq is Awesome
 Lead: Kudos and thanks to Dave Glick!
 Published: 10/06/2022
 Tags:
